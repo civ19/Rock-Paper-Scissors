@@ -3,7 +3,7 @@
 ## Simple Rock Paper Scissors game, CLI Based.
 
 This project is a fun rock paper scissors game ran with CLI, and is essentially where you can play against the AI for as many rounds as you want. Features of this game include:
-- Choosing how many rounds you want to play for per session (just one session is boring), so you have the freedom to choose whether you want something quick and fun, or long and intense.
+- Choosing how many rounds you want to play for per session (just one round is boring), so you have the freedom to choose whether you want something quick and fun, or long and intense.
 - Score tally after the game ends. After you've finished your rounds and the game is over, the system tallies up the points, and the one who gets the most points wins. It'll also tell you who won, so don't worry.
 
 ## Instructions on how to run 
